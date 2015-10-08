@@ -1,0 +1,1 @@
+606a9db2551c1ad1fb029f5a96d2946c9f52d1a2281a24ae49cc932bd5113a02 ../third_party/misoc/build/opsis_base-basesoc-opsis.bit

@@ -1,0 +1,2 @@
+cd257bdfb2f27c569db67d7058bfe7628552e829059a2bc44a13ebd6a5620642 ../third_party/misoc/build/atlys_hdmi2usb-hdmi2usbsoc-atlys.bit
+140a341aa38c87bb96701f172dfe23dcd9de27a29bdf183eb93b7412def638fa ../firmware/fx2/hdmi2usb.hex

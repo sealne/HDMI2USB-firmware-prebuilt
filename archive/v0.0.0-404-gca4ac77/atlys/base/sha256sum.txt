@@ -1,0 +1,1 @@
+afbf5d9cb68264981b8592fcbf6ee241af143a7de647c23fe3705eb1374e42aa ../third_party/misoc/build/atlys_base-minisoc-atlys.bit

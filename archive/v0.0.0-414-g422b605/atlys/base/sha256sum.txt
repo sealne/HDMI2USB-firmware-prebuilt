@@ -1,0 +1,1 @@
+8bc99f197f519a769336e8474b6bd7514ea71c43b102ba554314f65b7ee06bc9  atlys_base-minisoc-atlys.bit

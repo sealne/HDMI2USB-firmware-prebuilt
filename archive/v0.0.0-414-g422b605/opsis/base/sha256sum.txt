@@ -1,0 +1,1 @@
+4562dac47c2e8837db48c82d34d55017f57a21f5d668f83fc3db448fb69e9a94  opsis_base-basesoc-opsis.bit

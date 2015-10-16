@@ -1,0 +1,2 @@
+e7fb360a8a26a6dffa4e937af1948d6c96d93c269b7da7fa24dc09b3f39d5d00  hdmi2usb.hex
+8099220a045f7ca8c327171d065ccf0cd82abdb475e932b737012defcc8e3f4f  opsis_hdmi2usb-hdmi2usbsoc-opsis.bit
